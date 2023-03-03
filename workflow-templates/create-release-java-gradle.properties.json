@@ -16,6 +16,8 @@
     "^src/main/resources/.*",
     "^src/test/java/.*",
     "^src/test/resources/.*",
-    "package.json$"
+    "package.json$",
+    "action.yml",
+    "action.yaml"
   ]
 }
