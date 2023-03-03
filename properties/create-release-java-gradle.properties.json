@@ -3,22 +3,5 @@
   "description": "Release flow to a Java project using Gradle",
   "iconName": "octicon package",
   "creator": "Tiago Boeing",
-  "categories": ["Automation", "Continuous integration", "Java", "Gradle"],
-  "filePatterns": [
-    "^Dockerfile.*",
-    "^build.gradle$",
-    "^gradle.properties$",
-    "^gradlew$",
-    "^gradlew.bat$",
-    "^settings.gradle$",
-    "^gradle/wrapper/gradle-wrapper.jar$",
-    "^gradle/wrapper/gradle-wrapper.properties$",
-    "^src/main/java/.*",
-    "^src/main/resources/.*",
-    "^src/test/java/.*",
-    "^src/test/resources/.*",
-    "package.json$",
-    "action.yml",
-    "action.yaml"
-  ]
+  "categories": ["Automation", "Continuous integration", "Java", "Gradle"]
 }
