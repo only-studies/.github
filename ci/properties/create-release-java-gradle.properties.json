@@ -1,8 +1,8 @@
 {
   "name": "Create release - Java Gradle",
   "description": "Release flow to a Java project using Gradle",
-  "iconName": "package",
-  "categories": ["Java", "Gradle", "Release"],
+  "iconName": "octicon package",
+  "categories": ["Automation", "Continuous integration", "Java", "Gradle"],
   "filePatterns": [
     "^Dockerfile.*",
     "^build.gradle$",
