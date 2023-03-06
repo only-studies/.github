@@ -1,7 +1,0 @@
-{
-  "name": "Create release - Java Gradle",
-  "description": "Release flow to a Java project using Gradle",
-  "iconName": "octicon package",
-  "creator": "Tiago Boeing",
-  "categories": ["Automation", "Continuous integration", "Java", "Gradle"]
-}

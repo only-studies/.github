@@ -1,7 +1,0 @@
-{
-  "name": "Create release - Java Gradle",
-  "description": "Release flow to a Java project using Gradle",
-  "creator": "Tiago Boeing",
-  "iconName": "nodejs",
-  "categories": ["Continuous integration", "JavaScript", "npm", "Gradle", "Java"]
-}
