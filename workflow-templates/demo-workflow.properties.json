@@ -1,6 +1,6 @@
 {
   "name": "Starter Workflow Demo",
   "description": "Demo starter workflow.",
-  "iconName": "github",
+  "iconName": "octicon package",
   "categories": ["Python"]
 }
